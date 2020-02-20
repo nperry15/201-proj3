@@ -1,0 +1,24 @@
+What is the filename? board1.txt
+We are scoring this board:
+++++XO+++
+++++XO+++
+++++XO+++
+++++XO+++
+++++XO+++
+++++XO+++
+++++XO+++
+++++XO+++
+++++XO+++
+
+Here is the colored board:
+XXXXXOOOO
+XXXXXOOOO
+XXXXXOOOO
+XXXXXOOOO
+XXXXXOOOO
+XXXXXOOOO
+XXXXXOOOO
+XXXXXOOOO
+XXXXXOOOO
+Black scored: 45
+White scored: 36

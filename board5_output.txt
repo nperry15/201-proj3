@@ -1,0 +1,44 @@
+What is the filename? board5.txt
+We are scoring this board:
++++++++++++++++++++
++++++++++++++++++++
++++++++++++++++++++
++++++++++++++++++++
++++++++++++++++++++
++++++++++++++++++++
++++++++++++++++++++
++++++++++++++++++++
++++++++++++++++++++
++++++++++++++++++++
++++++++++++++++++++
++++++++++++++++++++
++++++++++++++++++++
++++++++++++++++++++
++++++++++++++++++++
+++++++++++++++++OOO
+++++++++++++++++OXX
++++++++++++++++OXX+
++++++++++++++++OX+X
+
+Here is the colored board:
+OOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOXX
+OOOOOOOOOOOOOOOOXXX
+OOOOOOOOOOOOOOOOXXX
+Black scored: 8
+White scored: 353

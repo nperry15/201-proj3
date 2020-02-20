@@ -1,0 +1,42 @@
+What is the filename? board3.txt
+We are scoring this board:
+++++XO+++++++OX++++
+++++XO+++++++OX++++
+++++XO+++++++OX++++
+++++XO+++++++OX++++
++++XO++++++++OXXXXX
++++XO++++++++OOOOOO
++++XO++++++++++++++
++++XO++++++++++++++
++++XO++++++++++++++
+++++XO+++++++++++++
+++++XO+++++++++++++
+++++XO+++++++++++++
+++++XO+++++++++++++
++++XO++++++++++++++
++++XO++++++++++++++
++++XO++++++++++++++
++++XO++++++++++++++
++++XO++++++++++++++
+
+Here is the colored board:
+XXXXXOOOOOOOOOXXXXX
+XXXXXOOOOOOOOOXXXXX
+XXXXXOOOOOOOOOXXXXX
+XXXXXOOOOOOOOOXXXXX
+XXXXOOOOOOOOOOXXXXX
+XXXXOOOOOOOOOOOOOOO
+XXXXOOOOOOOOOOOOOOO
+XXXXOOOOOOOOOOOOOOO
+XXXXOOOOOOOOOOOOOOO
+XXXXXOOOOOOOOOOOOOO
+XXXXXOOOOOOOOOOOOOO
+XXXXXOOOOOOOOOOOOOO
+XXXXXOOOOOOOOOOOOOO
+XXXXOOOOOOOOOOOOOOO
+XXXXOOOOOOOOOOOOOOO
+XXXXOOOOOOOOOOOOOOO
+XXXXOOOOOOOOOOOOOOO
+XXXXOOOOOOOOOOOOOOO
+Black scored: 105
+White scored: 237
