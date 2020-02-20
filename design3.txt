@@ -1,0 +1,65 @@
+"""
+File:    design3.txt
+Author:  Nicholas Perry
+Date:    11/26/2019
+Section: 25
+E-mail:  nperry2@umbc.edu
+Description: This is the design of the scoring of the game go.
+"""
+
+
+def read_file_to_2D_list(file_name):
+    """
+    reads a file and returns a 2D list of the elements
+    :param file_name: the file being read
+    :return: 2D list of each char in the file
+    """
+
+
+def recursive_filler(x, y):
+    """
+    recursively finds whos point is on the board
+    :param x: x-position of the point being found
+    :param y: y-position of the point being found
+    :return: whos point is in the board
+    """
+
+
+def return_filled_board(incomplete_board):
+    """
+    runs a loop that checks to see if all the pieces have been filled in.
+    if not, it will be filled with the correct piece
+    :param incomplete_board: the board being completed
+    :return: the new complete board
+    """
+
+
+def find_points(piece, board):
+    """
+    loops through and counts how many pieces are in a 2D list
+    :param piece: the character being counted
+    :param board: a 2D list
+    :return: total number of pieces
+    """
+
+
+def append_board_and_points(file_name, complete_board, black_score, white_score):
+    """
+    opens, appends and saves the new board and points to the file
+    :param file_name: the file name
+    :param complete_board: the complete board
+    :param black_score: the black pieces end score
+    :param white_score: the white pieces end score
+    :return: nothing
+    """
+
+
+if __name__ == "__main__":
+    file = "board1.txt"
+    mixed_board = read_file_to_2D_list(file)
+    filled_board = return_filled_board(mixed_board)
+
+    black_points = find_points("X", filled_board)
+    white_points = find_points("O", filled_board)
+
+    append_board_and_points(file, filled_board, black_points, white_points)
